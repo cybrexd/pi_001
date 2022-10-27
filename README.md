@@ -17,3 +17,7 @@ Python (incluyendo las librerias Pandas,sqlalchemy) : El script que ejecuta y en
 
 # Flujo de Datos
 
+![diagrama](https://user-images.githubusercontent.com/101259382/198390930-fd97fc77-81b1-49ae-b988-17f8a7ef71ea.jpg)
+
+
+Este diagrama del flujo de Datos del proceso de ETL simplifica y grafica todo el proceso.
